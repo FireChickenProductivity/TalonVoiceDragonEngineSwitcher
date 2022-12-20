@@ -1,0 +1,1 @@
+toggle force dragon: user.fire_chicken_toggle_forced_dragon()
