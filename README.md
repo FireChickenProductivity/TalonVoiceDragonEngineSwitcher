@@ -11,7 +11,7 @@ fire_chicken_dragon_microphone_toggle_keypress: The key sequence to press to tog
 user.fire_chicken_force_dragon: When this tag is active, talon is forced to use dragon as its speech engine.
 
 ## Known Issues
-If talon is forced to use dragon's engine, it will not be able to switch back to conformer if dragon freezes or crashes through voice commands.
+If talon is forced to use dragon's engine, it will not be able to switch back to conformer through voice commands if dragon freezes or crashes.
 
 ## Stuff not documented yet
 The stuff in the correction folder was for working with dragon's correction system. I have not used it in a while but plan on looking at it again and documenting it later.
