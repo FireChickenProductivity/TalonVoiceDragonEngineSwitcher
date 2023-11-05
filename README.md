@@ -1,5 +1,5 @@
 # Talon Voice Dragon Engine Switcher
-Provides functionality for switching to and from using Dragon as one's talon voice speech engine.
+Provides functionality for switching to and from using Dragon as one's talon voice speech engine. This is no longer being maintained.
 
 ## Commands
 toggle force dragon: toggles whether talon should be forced to use dragon as its speech engine.
